@@ -1,0 +1,44 @@
+/************ TAG SELECTORS ****************/
+body {
+  background-color: #EAF6F6;
+  text-align: center;
+}
+
+h1 {
+  color: #00909e;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: Grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+th, td {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  text-align: left;
+}
+
+/************** CLASS SELECTORS ***********/
+
+.table {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/************** ID SELECTORS *************/
+ #slogan {
+   text-decoration: underline overline;
+ }
